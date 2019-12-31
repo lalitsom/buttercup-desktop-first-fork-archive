@@ -1,0 +1,12 @@
+{
+  "tabWidth": 2,
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": "locales/**/*.json",
+      "options": {
+        "printWidth": 10000
+      }
+    }
+  ]
+}
