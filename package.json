@@ -213,7 +213,7 @@
     "i18next": "^10.0.7",
     "i18next-scanner": "^2.1.2",
     "is-error": "^2.2.1",
-    "jsdom": "^9.8.3",
+    "jsdom": "^16.5.0",
     "json-loader": "^0.5.4",
     "jsx-control-statements": "^3.2.5",
     "lint-staged": "^4.2.3",
