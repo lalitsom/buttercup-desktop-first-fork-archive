@@ -223,7 +223,7 @@
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
     "mousetrap": "^1.6.1",
-    "ms": "^0.7.2",
+    "ms": "^2.0.0",
     "node-noop": "^1.0.0",
     "node-sass": "^4.5.3",
     "normalizr": "^3.2.3",
